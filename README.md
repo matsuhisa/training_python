@@ -9,4 +9,7 @@
 - https://docs.python.jp/3/tutorial/
 - [x] 1〜4 章
 - [x] 5章
-- [ ] 6章
+- [x] 6章
+- [x] 7章
+- [x] 8章
+- [ ] 9章
