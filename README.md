@@ -12,4 +12,20 @@
 - [x] 6章
 - [x] 7章
 - [x] 8章
-- [ ] 9章
+- [x] 9章
+- [x] 10〜12章
+
+# テストをする
+
+```
+pip install pytest
+```
+
+## 公式ドキュメント
+
+- https://docs.pytest.org/en/latest/
+
+## 参考になりそう
+
+- https://methane.hatenablog.jp/entry/2013/01/08/py.test_%E3%81%A7_TDD_%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B
+- http://jxck.hatenablog.com/entry/20100421/1271850573
