@@ -1,4 +1,4 @@
-from fizz_buzz import FizzBuzz
+from lib import *
 
 def test_run():
     f = FizzBuzz()
